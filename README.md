@@ -4,13 +4,13 @@ Developed by CaliPanni
 
 
 # Downloads
-## English Versions
 [![Downloads](https://img.shields.io/github/downloads/CaliPanni/flappyximi/total.svg)]()
+## English Versions
 | Platform              |It's available?                       |Links                         |
 |----------------|-------------------------------|-----------------------------|
 |Android (APK)|Yes            |[1.1](https://github.com/CaliPanni/flappyximi/releases/download/engh/flappyximieng.apk)           |
-|IOS  (ALT)        |Not now           |-            |
-|Windows     (EXE)   |Yes but it needs to be fixed|  -
+|IOS  (ALT)        |Coming Soon          |-            |
+|Windows     (EXE)   |Coming Soon|  -
 |Web     (HTML5)   |Yes |[1.1](https://calipanni.github.io/flappyximi/)
 
 ## Italian Versions
