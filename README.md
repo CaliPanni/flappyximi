@@ -13,7 +13,7 @@ Developed by CaliPanni
 |Windows     (EXE)   |Yes but it needs to be fixed|  -
 |Web     (HTML5)   |Yes |[1.1](https://calipanni.github.io/flappyximi/)
 
-## Italian
+## Italian Versions
 The Italian version will no longer be updated.
 | Platform              |It's available?                       |Links                         |
 |----------------|-------------------------------|-----------------------------|
