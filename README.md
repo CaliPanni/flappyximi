@@ -4,7 +4,7 @@ Developed by CaliPanni
 
 
 # Downloads
-[![Github All Releases](https://img.shields.io/github/downloads/CaliPanniflappyximi/total.svg)]()
+[(https://img.shields.io/github/downloads/CaliPanniflappyximi/total.svg)
 | Platform              |It's available?                       |Links                         |
 |----------------|-------------------------------|-----------------------------|
 |Android (APK)|Yes            |[English 1.1](https://github.com/CaliPanni/flappyximi/releases/download/engh/flappyximieng.apk) - [Italian 1.0](https://github.com/CaliPanni/flappyximi/releases/download/releses/flappyximita.apk)          |
