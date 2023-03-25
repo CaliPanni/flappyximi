@@ -8,7 +8,7 @@ Developed by CaliPanni
 ## English Versions
 | Platform              |It's available?                       |Links                         |
 |----------------|-------------------------------|-----------------------------|
-|Android (APK)|Yes            |[2.0]https://github.com/CaliPanni/flappyximi/releases/download/engh/flappyximieng2.apk)           |
+|Android (APK)|Yes            |[2.0](https://github.com/CaliPanni/flappyximi/releases/download/engh/flappyximieng2.apk)           |
 |IOS  (ALT)        |Coming Soon          |-            |
 |Windows     (EXE)   |Coming Soon|  -
 |Web     (HTML5)   |Yes |[1.1](https://calipanni.github.io/flappyximi/)
