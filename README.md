@@ -15,9 +15,9 @@ Developed by CaliPanni
 
 ## Italian Versions
 The Italian version will no longer be updated.
-| Platform              |It's available?                       |Links                         |
+| Platform              |It's available?                       |Mirrors                         |
 |----------------|-------------------------------|-----------------------------|
-|Android (APK)|Yes            |[1.0](https://github.com/CaliPanni/flappyximi/releases/download/releses/flappyximita.apk)          |
+|Android (APK)|Yes            |[1.0 (GitHub)](https://github.com/CaliPanni/flappyximi/releases/download/releses/flappyximita.apk)          |
 |IOS  (ALT)        |No           |-            |
 |Windows     (EXE)   |No |  -
 |Web     (HTML5)   |No | -
